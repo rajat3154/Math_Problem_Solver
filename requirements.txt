@@ -8,3 +8,4 @@ huggingface-hub
 sentence-transformers
 tqdm
 python-dotenv
+langchain_groq
