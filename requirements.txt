@@ -9,3 +9,5 @@ sentence-transformers
 tqdm
 python-dotenv
 langchain_groq
+wikipedia
+numexpr
